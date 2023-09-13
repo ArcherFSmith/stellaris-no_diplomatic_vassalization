@@ -1,4 +1,4 @@
-version="3.8.4"
+version="1.2"
 picture="thumbnail.png"
 tags={
 	"Balance"
@@ -8,6 +8,6 @@ tags={
 	"Utilities"
 }
 name="No Diplomatic Vassalization"
-supported_version="3.8.4"
+supported_version="3.9"
 path="/home/archers/.local/share/Paradox Interactive/Stellaris/mod/no_diplomatic_vassalization"
 remote_file_id="3032522847"
