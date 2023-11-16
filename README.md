@@ -1,4 +1,4 @@
-# stellaris-no_diplomatic_vassalization
+# Stellaris: No Diplomatic Vassalization
 For a stellaris mod relating to no diplomatic vassalization.
 
 EN DESC:
