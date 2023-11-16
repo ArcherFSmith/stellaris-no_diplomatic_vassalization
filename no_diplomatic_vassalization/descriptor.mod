@@ -1,4 +1,4 @@
-version="1.2"
+version="Pyxis 3.10-1"
 picture="thumbnail.png"
 tags={
 	"Balance"
@@ -8,5 +8,5 @@ tags={
 	"Utilities"
 }
 name="No Diplomatic Vassalization"
-supported_version="3.9"
+supported_version="3.10"
 remote_file_id="3032522847"
