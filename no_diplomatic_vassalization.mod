@@ -1,4 +1,4 @@
-version="1.2"
+version="Pyxis 3.10.0-1"
 picture="thumbnail.png"
 tags={
 	"Balance"
@@ -8,6 +8,6 @@ tags={
 	"Utilities"
 }
 name="No Diplomatic Vassalization"
-supported_version="3.9"
+supported_version="3.10.0"
 path="/home/archers/.local/share/Paradox Interactive/Stellaris/mod/no_diplomatic_vassalization"
 remote_file_id="3032522847"
